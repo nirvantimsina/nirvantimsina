@@ -58,16 +58,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nano/nano-original.svg" height="30" alt="nano logo" />
   </a>
   <img width="12" />
+  <a href="https://mysql.com/" target="_blank" title="MySQL">
+    <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="30" alt="mysql logo" />
+  </a>
+  <img width="12" />
   <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
   </a>
   <img width="12" />
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  </a>
-  <img width="12" />
   <a href="https://vercel.com/" target="_blank" title="Vercel">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="30" alt="vercel logo" />
+    <img src="https://www.datocms-assets.com/35255/1665957463-sponsor-logo-vercel.png" height="30" alt="vercel logo" />
   </a>
   <img width="12" />
   <a href="https://code.visualstudio.com/" target="_blank" title="VS Code">
