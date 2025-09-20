@@ -77,6 +77,10 @@
   <a href="https://chatgpt.com/" target="_blank" title="Chat GPT">
     <img src="https://static.vecteezy.com/system/resources/previews/021/059/827/non_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg" height="30" alt="chatgpt logo" />
   </a>
+  <img width="12" />
+  <a href="https://postman.com/" target="_blank" title="Postman">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" />
+  </a>
 </div>
 
 ###
