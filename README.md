@@ -23,7 +23,7 @@
   <img width="12" />
   
   <a href="https://react.dev/" target="_blank" title="React">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/-original.svg" height="30" alt="react logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   </a>
   <img width="12" />
   
@@ -43,13 +43,13 @@
   <img width="12" />
 
 
-  <a href="https://dotnet.microsoft.com/en-us/download" target="_blank" title="Dotnet">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" height="30" alt="dotnet logo" />
+  <a href="https://dotnet.microsoft.com/en-us/download" target="_blank" title="Dotnet Core">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnet logo" />
   </a>
   <img width="12" />
 
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" title="MS SQL">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mssql/mssql-original.svg" height="30" alt="nodejs logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" alt="mssql logo" />
   </a>
 
   
@@ -97,7 +97,7 @@
 
   <img width="12" />
   <a href="https://learn.microsoft.com/en-us/ssms/install/install" target="_blank" title="SSMS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssms/ssms-original.svg" height="30" alt="ssms logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssms/ssms-original.svg](https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original.svg" height="30" alt="ssms logo" />
   </a>
   
 </div>
