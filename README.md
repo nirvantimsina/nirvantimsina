@@ -23,7 +23,7 @@
   <img width="12" />
   
   <a href="https://react.dev/" target="_blank" title="React">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/-original.svg" height="30" alt="react logo" />
   </a>
   <img width="12" />
   
@@ -40,6 +40,19 @@
   <a href="https://nodejs.org/en" target="_blank" title="NodeJS">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
   </a>
+  <img width="12" />
+
+
+  <a href="https://dotnet.microsoft.com/en-us/download" target="_blank" title="Dotnet">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" height="30" alt="dotnet logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" title="MS SQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mssql/mssql-original.svg" height="30" alt="nodejs logo" />
+  </a>
+
+  
 </div>
 
 ###
@@ -81,15 +94,18 @@
   <a href="https://postman.com/" target="_blank" title="Postman">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" />
   </a>
+
+  <img width="12" />
+  <a href="https://learn.microsoft.com/en-us/ssms/install/install" target="_blank" title="SSMS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssms/ssms-original.svg" height="30" alt="ssms logo" />
+  </a>
+  
 </div>
 
 ###
 
 <div align="left">
   <h3>🌐 My Socials</h3>
-  <a href="https://www.instagram.com/nirvan.xo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/raj-timsina-87818729b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
