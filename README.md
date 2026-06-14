@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Nirvan Timsina and I love tech.</h2>
+<h2 align="center">Hi! My name is Nirvan Timsina and look at this snake animation.</h2>
 
 ###
 
